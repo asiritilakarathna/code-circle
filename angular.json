@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "code-circle"
+    }
+  },
+  "defaultProject": "code-circle",
+  "cli": {
+    "analytics": false
+  }
 }
